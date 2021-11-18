@@ -9,7 +9,7 @@ type: pages
 
 Brandon Bates  
 Owosso, Michigan  
-(517) 614-1396
+(517) 614-1396  
 bbautomate@outlook.com
 
 ## Experience
