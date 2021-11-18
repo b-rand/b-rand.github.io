@@ -1,6 +1,6 @@
 ---
 title: Resume
 published: true
-permalink: /Resume/
+permalink: /resume/
 type: pages
 ---
