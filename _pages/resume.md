@@ -16,23 +16,51 @@ bbautomate@outlook.com
 
 ### TechSmith Corporation
 
-Systems Engineer, Infrastructure  
+#### Systems Engineer, Infrastructure  
+
 May 2019 - Present
 
+Responsibilities
+
+* Resp
+
+Skills
+
 * Skills
 
-Support Engineer, IT  
+#### Support Engineer, IT  
+
 April 2018 - May 2019
 
+Responsibilities
+
+* Resp
+
+Skills
+
 * Skills
 
-Information Technology Specialist  
+#### Information Technology Specialist
+
 January 2015 - April 2018
 
+Responsibilities
+
+* Resp
+
+Skills
+
 * Skills
 
-Information Technology Specialist Intern  
+#### Information Technology Specialist Intern
+
 February 2014 - January 2015
+
+Responsibilities
+
+* Resp
+
+Skills
 
 * Skills
 
