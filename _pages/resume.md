@@ -5,7 +5,7 @@ permalink: /resume/
 type: pages
 ---
 
-# Brandon Bates
+## Brandon Bates
 
 Owosso, Michigan  
 (517) 614-1396  
