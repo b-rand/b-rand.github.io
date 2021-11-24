@@ -20,7 +20,7 @@ title: "Brandon Bates' Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: &name "Brandon Bates"
-description: &description "This site is for me to share what I have been working on."
+description: &description "PowerShell & Automation"
 url: "https://b-rand.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "b-rand/b-rand.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
