@@ -5,9 +5,8 @@ permalink: /resume/
 type: pages
 ---
 
-## Contact Information
+# Brandon Bates
 
-Brandon Bates  
 Owosso, Michigan  
 (517) 614-1396  
 bbautomate@outlook.com
@@ -22,13 +21,13 @@ May 2019 - Present
 
 Responsibilities
 
-* Collaborate with Development Leadership and Development Staff on Cloud SaaS offerings
-* Propose and impliment new architecture to support Development efforts
+* Collaborate with Software Development Leadership and Development Staff on Cloud SaaS offerings
+* Propose and impliment new architecture to support Software Development efforts
 * Create, monitor, and troubleshoot service performance, availability, and exception based sensors
-* Automate various tasks and processes across the organization with the use of PowerShell. e.g. Azure Cloud Infrastructure creation/configuration, API integrations, User Account Management, GDPR Compliance, Auditing
+* Automate tasks and processes across the organization with the use of PowerShell. e.g. Azure Cloud Infrastructure creation/configuration, API integrations, User Account Management, GDPR Compliance, Auditing
 * Correlate failures with bugs in code
-* Document, diagram, and shareout service infrastructrue with staff
-* Train and Mentor additons to IT Staff
+* Document, diagram, and shareout service infrastructrue with the organization
+* Train and Mentor new additons to IT Staff
 * Participate in SAFe program increment planning
 
 Skills  
