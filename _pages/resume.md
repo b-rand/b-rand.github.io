@@ -22,12 +22,12 @@ May 2019 - Present
 Responsibilities
 
 * Collaborate with Software Development Leadership and Development Staff on Cloud SaaS offerings
-* Propose and impliment new architecture to support Software Development efforts
+* Propose and implement new architecture to support Software Development efforts
 * Create, monitor, and troubleshoot service performance, availability, and exception based sensors
 * Automate tasks and processes across the organization with the use of PowerShell. e.g. Azure Cloud Infrastructure creation/configuration, API integrations, User Account Management, GDPR Compliance, Auditing
 * Correlate failures with bugs in code
-* Document, diagram, and shareout service infrastructrue with the organization
-* Train and Mentor new additons to IT Staff
+* Document, diagram, and share out service infrastructure with the organization
+* Train and Mentor new additions to IT Staff
 * Participate in SAFe program increment planning
 
 Skills  
@@ -69,7 +69,7 @@ Responsibilities
 * Automate IT Processes. e.g. User onboarding and offboarding, Ticket Orchestration
 * Windows and MacOS Administration
 * Internal User Support
-* Network Switch Administration (HP Procurve and Cisco, Configuragtion, ACLs, and Vlan management)
+* Network Switch Administration (HP Procurve and Cisco, Configuration, ACLs, and Vlan management)
 * Administer VMware Virtual Machines
 
 Skills
@@ -90,12 +90,12 @@ January 2015 - April 2018
 
 Responsibilities
 
-* Assiting IT team with Agile Kanban ticketing system (Kayako and System Center Service Manager).
+* Assisting IT team with Agile Kanban ticketing system (Kayako and System Center Service Manager).
 * Management of end user accounts and systems.
 * Maintain and Administer internal VoIP call center.
 * Provide training and documentation to staff.
 * Administer company images and software deployments through System Center Configuration Manager.
-* Design and Impliment conference room technology
+* Design and Implement conference room technology
 * IT Department Accounting
 * Assist IT Interns
 
