@@ -16,7 +16,7 @@ bbautomate@outlook.com
 
 > ### Abercrombie & Fitch (April 2022 - Present)
 > 
-> #### Senior Cloud Engineer I | Senior Cloud Engineer II
+> #### Senior Cloud Engineer I | Senior Cloud Engineer II (Promoted in 2024)
 > 
 > * Architected, automated, and managed cloud platforms (Azure & Oracle Cloud Infrastructure)
 > * Implemented IaC using Terraform Cloud, streamlining deployments and reducing manual errors
