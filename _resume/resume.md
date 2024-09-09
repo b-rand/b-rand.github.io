@@ -3,6 +3,7 @@ title: Resume
 published: true
 permalink: /resume/
 type: pages
+author_profile: true
 ---
 
 ## Brandon Bates
