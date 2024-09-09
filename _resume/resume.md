@@ -53,38 +53,37 @@ bbautomate@outlook.com
 
 ## Skills
 
-**Proficient:**
-* Scripting:
-  * PowerShell
-  * Bash
-  * Python
-* Version Control:
-  * GIT (GitHub, Azure Repos)
-* REST API Integrations
-* Infrastructure as Code (IaC):
-  * Terraform & Terraform Cloud (modular deployments, reusability)
-  * HashiCorp Configuration Language (HCL)
-  * Hashicorp Sentinel (Terraform Policy Enforcement)
-* Kubernetes (AKS & OKE):
-  * Helm
-  * FluxCD (GitOPs)
-* CI/CD Pipelines:
-  * Azure DevOps (Azure Pipelines)
-  * GitLab (Deploying containerized images to container registries)
-  * Jenkins (Application Testing and Deployment)
-* Containerization:
-  * Docker (Container creation and management)
-  * Nexus (Artifact and container image storage)
-* Cloud Platforms:
-  * Azure (Functions, VNets, Application Insights, Active Directory, ACR, AKV, Storage Accounts, AKS, MI, Firewall)
-  * Oracle Cloud Infrastructure (VCNs, Compute, Storage, OKE)
-* Monitoring and Security:
-  * Azure Firewall
-  * Splunk (Security and operational insights, dashboard creation, and log analysis)
-  * PRTG
-  * Application Insights, Log Analytics (Kusto)
-* VMware ESXI
-* Operating Systems:
-  * Windows Server
-  * Linux
-  * Mac OS
+> * Scripting:
+>   * PowerShell
+>   * Bash
+>   * Python
+> * Version Control:
+>   * GIT (GitHub, Azure Repos)
+> * REST API Integrations
+> * Infrastructure as Code (IaC):
+>   * Terraform & Terraform Cloud (modular deployments, reusability)
+>   * HashiCorp Configuration Language (HCL)
+>   * Hashicorp Sentinel (Terraform Policy Enforcement)
+> * Kubernetes (AKS & OKE):
+>   * Helm
+>   * FluxCD (GitOPs)
+> * CI/CD Pipelines:
+>   * Azure DevOps (Azure Pipelines)
+>   * GitLab (Deploying containerized images to container registries)
+>   * Jenkins (Application Testing and Deployment)
+> * Containerization:
+>   * Docker (Container creation and management)
+>   * Nexus (Artifact and container image storage)
+> * Cloud Platforms:
+>   * Azure (Functions, VNets, Application Insights, Active Directory, ACR, AKV, Storage Accounts, AKS, MI, > Firewall)
+>   * Oracle Cloud Infrastructure (VCNs, Compute, Storage, OKE)
+> * Monitoring and Security:
+>   * Azure Firewall
+>   * Splunk (Security and operational insights, dashboard creation, and log analysis)
+>   * PRTG
+>   * Application Insights, Log Analytics (Kusto)
+> * VMware ESXI
+> * Operating Systems:
+>   * Windows Server
+>   * Linux
+>   * Mac OS
