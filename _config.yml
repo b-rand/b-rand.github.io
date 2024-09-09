@@ -287,3 +287,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _resume
+  - scope:
+      path: "_resume"
+      type: resume
+    values:
+      layout: resume
+      author_profile: true
