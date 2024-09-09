@@ -2,6 +2,7 @@
 title: Resume
 published: true
 permalink: /resume/
+layout: posts
 type: pages
 ---
 
