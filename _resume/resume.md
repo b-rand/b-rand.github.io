@@ -12,11 +12,11 @@ Owosso, Michigan
 (517) 614-1396  
 bbautomate@outlook.com
 
-## Experience
+### Experience
 
-> ### Abercrombie & Fitch (April 2022 - Present)
+> #### Abercrombie & Fitch (April 2022 - Present)
 > 
-> #### Senior Cloud Engineer I | Senior Cloud Engineer II (Promoted in 2024)
+> ##### Senior Cloud Engineer I | Senior Cloud Engineer II (Promoted in 2024)
 > 
 > * Architected, automated, and managed cloud platforms (Azure & Oracle Cloud Infrastructure)
 > * Implemented IaC using Terraform Cloud, streamlining deployments and reducing manual errors
@@ -27,31 +27,31 @@ bbautomate@outlook.com
 > * Configured and maintained Azure Firewall for securing network traffic across cloud environments
 > * Utilized Splunk for real-time security monitoring, log analysis, and operational insights, including creating custom dashboards for cloud resource visibility
 
-> ### TechSmith Corporation (May 2019 - April 2022)
+> #### TechSmith Corporation (February 2014 - April 2022)
 > 
-> #### Systems Engineer, Infrastructure  
+> ##### Systems Engineer, Infrastructure  (May 2019 - Apr 2022)
 > 
 > * Collaborated with development teams to propose and implement cloud SaaS architectures
 > * Automated tasks (GDPR compliance, Azure infrastructure) using PowerShell and API integrations
 > * Monitored and maintained service performance and availability through PRTG and custom sensors
 > * Mentored junior IT staff and participated in SAFe (Agile) program increment planning
 > 
-> #### Support Engineer, IT  
+> ##### Support Engineer, IT (Apr 2018 - May 2019)  
 > 
 > * Provided Tier 1 and 2 internal support and administered VMware and network systems (HP/Cisco)
 > * Automated IT processes (onboarding, ticket orchestration) using PowerShell
 >
-> #### Information Technology Specialist (Jan 2015 - April 2018)
+> ##### Information Technology Specialist (Jan 2015 - Apr 2018)
 > 
 > * Architected and implimented an automated lab for QA testing of software applications using SCCM and Jenkins
 > * Managed end-user systems, VoIP call centers, and internal accounts
 > * Administered company images and software deployments via SCCM
 >
-> #### Information Technology Specialist Intern (Feb 2014 - Jan 2015)
+> ##### Information Technology Specialist Intern (Feb 2014 - Jan 2015)
 > 
 > * Provided end-user support and managed IT assets
 
-## Skills
+### Skills
 
 > * Scripting:
 >   * PowerShell
