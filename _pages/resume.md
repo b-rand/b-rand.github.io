@@ -13,109 +13,77 @@ bbautomate@outlook.com
 
 ## Experience
 
-### TechSmith Corporation
+> ### Abercrombie & Fitch (April 2022 - Present)
+> 
+> #### Senior Cloud Engineer I | Senior Cloud Engineer II
+> 
+> * Architected, automated, and managed cloud platforms (Azure & Oracle Cloud Infrastructure)
+> * Implemented IaC using Terraform Cloud, streamlining deployments and reducing manual errors
+> * Introduced tagging policies for cost accounting, enabling showback for application teams
+> * Deployed hub/spoke architecture to enhance network scalability and security
+> * Created CI/CD pipelines for Azure DevOps, automating subscription and SPN deployments
+> * Developed Kubernetes patterns and reusable Terraform modules with a focus on security and scalability
+> * Configured and maintained Azure Firewall for securing network traffic across cloud environments
+> * Utilized Splunk for real-time security monitoring, log analysis, and operational insights, including creating custom dashboards for cloud resource visibility
 
-#### Systems Engineer, Infrastructure  
+> ### TechSmith Corporation (May 2019 - April 2022)
+> 
+> #### Systems Engineer, Infrastructure  
+> 
+> * Collaborated with development teams to propose and implement cloud SaaS architectures
+> * Automated tasks (GDPR compliance, Azure infrastructure) using PowerShell and API integrations
+> * Monitored and maintained service performance and availability through PRTG and custom sensors
+> * Mentored junior IT staff and participated in SAFe (Agile) program increment planning
+> 
+> #### Support Engineer, IT  
+> 
+> * Provided Tier 1 and 2 internal support and administered VMware and network systems (HP/Cisco)
+> * Automated IT processes (onboarding, ticket orchestration) using PowerShell
+>
+> #### Information Technology Specialist (Jan 2015 - April 2018)
+> 
+> * Architected and implimented an automated lab for QA testing of software applications using SCCM and Jenkins
+> * Managed end-user systems, VoIP call centers, and internal accounts
+> * Administered company images and software deployments via SCCM
+>
+> #### Information Technology Specialist Intern (Feb 2014 - Jan 2015)
+> 
+> * Provided end-user support and managed IT assets
 
-May 2019 - Present
+## Skills
 
-Responsibilities
-
-* Collaborate with Software Development Leadership and Development Staff on Cloud SaaS offerings
-* Propose and implement new architecture to support Software Development efforts
-* Create, monitor, and troubleshoot service performance, availability, and exception based sensors
-* Automate tasks and processes across the organization with the use of PowerShell. e.g. Azure Cloud Infrastructure creation/configuration, API integrations, User Account Management, GDPR Compliance, Auditing
-* Correlate failures with bugs in code
-* Document, diagram, and share out service infrastructure with the organization
-* Train and Mentor new additions to IT Staff
-* Participate in SAFe program increment planning
-
-Skills  
-
-* Proficient
-  * PowerShell (Windows and Core)
-  * Interacting With Restful APIs
-  * Azure
-    * SQL (Database, Failover Groups, Elastic Pools, Geo-Replication)
-    * App Service (Automated-Scaling, Deployment, Kudu, Configuration)
-    * Azure CDN (Configuration and Management)
-    * Redis Cache for Azure
-    * Active Directory (User Account, Enterprise Applications (SSO), App Registrations (Service Principal administration))
-    * Application Insight/Log Analytics (Kusto Querying)
-    * Cost Analysis
-    * Monitor
-  * Azure DevOps (Release Pipelines)
-  * Github
+**Proficient:**
+* Scripting:
+  * PowerShell
+  * Bash
+  * Python
+* Version Control:
+  * GIT (GitHub, Azure Repos)
+* REST API Integrations
+* Infrastructure as Code (IaC):
+  * Terraform & Terraform Cloud (modular deployments, reusability)
+  * HashiCorp Configuration Language (HCL)
+  * Hashicorp Sentinel (Terraform Policy Enforcement)
+* Kubernetes (AKS & OKE):
+  * Helm
+  * FluxCD (GitOPs)
+* CI/CD Pipelines:
+  * Azure DevOps (Azure Pipelines)
+  * GitLab (Deploying containerized images to container registries)
+  * Jenkins (Application Testing and Deployment)
+* Containerization:
+  * Docker (Container creation and management)
+  * Nexus (Artifact and container image storage)
+* Cloud Platforms:
+  * Azure (Functions, VNets, Application Insights, Active Directory, ACR, AKV, Storage Accounts, AKS, MI, Firewall)
+  * Oracle Cloud Infrastructure (VCNs, Compute, Storage, OKE)
+* Monitoring and Security:
+  * Azure Firewall
+  * Splunk (Security and operational insights, dashboard creation, and log analysis)
   * PRTG
-* Learning
-  * C# (Confident in ability to read and navigate)
-  * Kubernetes (Able to manage cluster certificates, monitor deployments and pod health)
-    * Flux
-    * Helm
-    * Keda
-    * Prometheus
-  * Terraform
-
-#### Support Engineer, IT  
-
-April 2018 - May 2019
-
-Responsibilities
-
-* Tier 1 and 2 internal support
-* Triage Tier 1 and 2 service and incident requests
-* Train and mentor other Support Engineers and Interns
-* Administer System Center Configuration Manager ecosystem, Task Sequences, System Imaging, and Patch Automation
-* Automate IT Processes. e.g. User onboarding and offboarding, Ticket Orchestration
-* Windows and MacOS Administration
-* Internal User Support
-* Network Switch Administration (HP Procurve and Cisco, Configuration, ACLs, and Vlan management)
-* Administer VMware Virtual Machines
-
-Skills
-
-* System Center Suite
-  * Configuration Manager
-  * Service Manager
-  * Orchestrator
-  * Operations Manager
-* HP CLI
-* PowerShell
-* Windows Server 2012, 2012R2, 2016 
-* VMware vSphere
-
-#### Information Technology Specialist
-
-January 2015 - April 2018
-
-Responsibilities
-
-* Assisting IT team with Agile Kanban ticketing system (Kayako and System Center Service Manager).
-* Management of end user accounts and systems.
-* Maintain and Administer internal VoIP call center.
-* Provide training and documentation to staff.
-* Administer company images and software deployments through System Center Configuration Manager.
-* Design and Implement conference room technology
-* IT Department Accounting
-* Assist IT Interns
-
-Skills
-
-* ShoreTel VOIP
-* Windows 7, 8, 8.1, 10
-
-#### Information Technology Specialist Intern
-
-February 2014 - January 2015
-
-Responsibilities
-
-* End User Support
-* Asset Procurement, Management, and Tracking
-* Provision User Accounts and Software
-
-## Education
-
-Baker College of Owosso  
-2012-2015 & 2021-Present  
-Bachelor of Science | Information Technology and Security
+  * Application Insights, Log Analytics (Kusto)
+* VMware ESXI
+* Operating Systems:
+  * Windows Server
+  * Linux
+  * Mac OS
